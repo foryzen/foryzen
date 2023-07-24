@@ -1,5 +1,5 @@
 # foryzen
 
-ホームページ：https://foryzen.github.io/main/
+https://foryzen.github.io/main/　-　ホームページ
 
-自作PC構成クリエイター：https://foryzen.github.io/pccc/beta/
+https://foryzen.github.io/pccc/beta/　-　自作PC構成クリエイター
