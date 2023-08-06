@@ -3,9 +3,6 @@
 [ホームページ](https://foryzen.github.io/main/)
 
 ![](https://badges.pufler.dev/repos/foryzen)
-
 ![](https://badges.pufler.dev/years/foryzen)
-
 ![](https://badges.pufler.dev/commits/all/foryzen)
-
 ![](https://komarev.com/ghpvc/?username=foryzen)
