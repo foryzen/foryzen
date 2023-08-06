@@ -6,4 +6,4 @@
 
 [ホームページ](https://foryzen.github.io/main/)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ao9s&layout=compact&count_private=true&show_icons=true&theme=onedark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=foryzen&layout=compact&count_private=true&show_icons=true&theme=onedark)
