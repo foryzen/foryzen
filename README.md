@@ -6,4 +6,4 @@
 
 [ホームページ](https://foryzen.github.io/main/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=foryzen&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ao9s&layout=compact&count_private=true&show_icons=true&theme=onedark)
